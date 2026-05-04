@@ -15,7 +15,6 @@ public class Main
 		     w=x+y;
 		    
 		    
-		    
 		}
 		else{
 		     x=m/k;
