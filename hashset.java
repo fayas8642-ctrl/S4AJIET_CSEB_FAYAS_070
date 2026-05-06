@@ -17,6 +17,7 @@ public class Main
 	    System.out.println(cse.size());
 	  cse.clear();
 	   System.out.println(cse);
+		  System.out.println(cse.contains('10'));
 	  
 	
 	  
